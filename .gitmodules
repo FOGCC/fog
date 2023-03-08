@@ -1,0 +1,18 @@
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = https://github.com/FOGCC/go-ethereum.git
+[submodule "fastcache"]
+	path = fastcache
+	url = https://github.com/FOGCC/fastcache.git
+[submodule "fogitrator/wasm-libraries/soft-float/SoftFloat"]
+	path = fogitrator/wasm-libraries/soft-float/SoftFloat
+	url = https://github.com/FOGCC/SoftFloat.git
+[submodule "brotli"]
+	path = brotli
+	url = https://github.com/google/brotli.git
+[submodule "blockscout"]
+	path = blockscout
+        url = https://github.com/FOGCC/blockscout.git
+[submodule "fogitrator/wasm-testsuite/testsuite"]
+	path = fogitrator/wasm-testsuite/testsuite
+	url = https://github.com/WebAssembly/testsuite.git
